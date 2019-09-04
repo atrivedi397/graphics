@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Graphicss.dir/main.cpp.o  -o Graphicss -lgraph 

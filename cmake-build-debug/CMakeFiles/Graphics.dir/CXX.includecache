@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h
+iostream
+-
+graphics.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_line_drawing.h
+iostream
+-
+graphics.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h
+iostream
+-
+graphics.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/differential_digital_analyzer.h
+iostream
+-
+graphics.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/main.cpp
+stdlib.h
+-
+graphics.h
+-
+iostream
+-
+differential_digital_analyzer.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/differential_digital_analyzer.h
+Bresenham_line_drawing.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_line_drawing.h
+Generalized_bresenham_line.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h
+Bresenham_circle.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h
+

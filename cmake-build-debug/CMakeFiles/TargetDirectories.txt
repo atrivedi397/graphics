@@ -1,0 +1,3 @@
+/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug/CMakeFiles/Graphics.dir
+/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug/CMakeFiles/edit_cache.dir
