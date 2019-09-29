@@ -1,5 +1,4 @@
 #pragma once
-
 #include <iostream>
 #include <graphics.h>
 /* Function that returns -1,0,1 depending on whether x */
@@ -9,7 +8,9 @@
 /*
  *
  * This is the class for implementing Generalized Bresenham Algorithm
- * */
+ *
+ *
+ */
 
 class Generalized_Bresenham {
 public:
@@ -35,26 +36,23 @@ public:
 
         /* Set the initial decision parameter and the initial point */
         e = 2 * dy - dx;
-
         for(int i = 1; i <= dx; i++)
         {
             putpixel(x,y,2);
-
+            std::cout<<int(x)<<", "<<int(y)<<"   ";
             while(e >= 0)
             {
                 if(interchange == 1)
                     x = x + s1;
                 else
-                {
                     y = y + s2;
-                    e = e - 2* dx;
-                }
+                e = e - 2* dx;
             }
             if(interchange==1)
                 y = y + s2;
             else x = x + s1;
             e = e + 2 * dy;
+            std::cout<<x<<", "<<y<<", "<<e<<"\n";
         }
     }
 };
-

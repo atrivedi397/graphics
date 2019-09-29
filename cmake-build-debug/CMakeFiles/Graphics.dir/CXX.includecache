@@ -35,8 +35,6 @@ stdlib.h
 -
 graphics.h
 -
-iostream
--
 differential_digital_analyzer.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/differential_digital_analyzer.h
 Bresenham_line_drawing.h
@@ -45,4 +43,6 @@ Generalized_bresenham_line.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h
 Bresenham_circle.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h
+iostream
+-
 

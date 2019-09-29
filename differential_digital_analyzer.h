@@ -16,7 +16,7 @@ public:
         float x,y,dx,dy;
         int i,length;
         dx = abs(x2-x1);
-        std::cout<<x2<<"  "<<x1<< " "<<dx<<"\n";
+        //std::cout<<x2<<"  "<<x1<< " "<<dx<<"\n";
         dy = abs(y2-y1);
         if(dx>=dy) length = dx;
         else length = dy;
@@ -35,11 +35,4 @@ public:
             i++;
         }
     }
-
 };
-
-
-//
-// Created by atrivedi on 8/7/19.
-//
-

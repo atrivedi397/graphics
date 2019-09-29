@@ -35,9 +35,9 @@ public:
         while(yi>=0){
 
             putpixel(centre_x+xi,centre_y+yi,RED);
-            putpixel(centre_x+xi,centre_y-yi,RED);
-            putpixel(centre_x-xi,centre_y+yi,RED);
-            putpixel(centre_x-xi,centre_y-yi,RED);
+            putpixel(centre_x+xi,centre_y-yi,GREEN);
+            //putpixel(centre_x-xi,centre_y+yi,YELLOW);
+            //putpixel(centre_x-xi,centre_y-yi,BLUE);
             if(di<0)
             {
                 d=(2*di)+(2*yi)-1;
