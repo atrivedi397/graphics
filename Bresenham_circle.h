@@ -28,15 +28,13 @@ public:
 
     void Circle(int centre_x, int centre_y, int r){
         xi=0;
-
-
         yi=r;
         di=2*(1-r);
         while(yi>=0){
 
-            putpixel(centre_x+xi,centre_y+yi,RED);
-            putpixel(centre_x+xi,centre_y-yi,GREEN);
-            //putpixel(centre_x-xi,centre_y+yi,YELLOW);
+            //putpixel(centre_x+xi,centre_y+yi,RED);
+            //putpixel(centre_x+xi,centre_y-yi,GREEN);
+            putpixel(centre_x-xi,centre_y+yi,YELLOW);
             //putpixel(centre_x-xi,centre_y-yi,BLUE);
             if(di<0)
             {

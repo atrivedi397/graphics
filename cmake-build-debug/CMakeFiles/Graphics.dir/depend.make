@@ -6,4 +6,8 @@ CMakeFiles/Graphics.dir/main.cpp.o: ../Bresenham_line_drawing.h
 CMakeFiles/Graphics.dir/main.cpp.o: ../Generalized_bresenham_line.h
 CMakeFiles/Graphics.dir/main.cpp.o: ../differential_digital_analyzer.h
 CMakeFiles/Graphics.dir/main.cpp.o: ../main.cpp
+CMakeFiles/Graphics.dir/main.cpp.o: ../question1.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question2.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question3.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question4.h
 

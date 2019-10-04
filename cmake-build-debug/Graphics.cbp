@@ -95,6 +95,18 @@
 		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/main.cpp">
 			<Option target="Graphics"/>
 		</Unit>
+		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question1.h">
+			<Option target="Graphics"/>
+		</Unit>
+		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question2.h">
+			<Option target="Graphics"/>
+		</Unit>
+		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question3.h">
+			<Option target="Graphics"/>
+		</Unit>
+		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question4.h">
+			<Option target="Graphics"/>
+		</Unit>
 		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

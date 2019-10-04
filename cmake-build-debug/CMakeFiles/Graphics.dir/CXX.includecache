@@ -43,6 +43,42 @@ Generalized_bresenham_line.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h
 Bresenham_circle.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h
+question1.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question1.h
+question2.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question2.h
+question3.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question3.h
+question4.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question4.h
 iostream
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question1.h
+iostream
+-
+graphics.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question2.h
+graphics.h
+-
+iostream
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question3.h
+iostream
+-
+graphics.h
+-
+stdlib.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question4.h
+iostream
+-
+graphics.h
+-
+stdlib.h
 -
 
