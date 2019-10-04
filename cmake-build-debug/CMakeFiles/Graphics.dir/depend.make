@@ -10,4 +10,8 @@ CMakeFiles/Graphics.dir/main.cpp.o: ../question1.h
 CMakeFiles/Graphics.dir/main.cpp.o: ../question2.h
 CMakeFiles/Graphics.dir/main.cpp.o: ../question3.h
 CMakeFiles/Graphics.dir/main.cpp.o: ../question4.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question5.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question5b.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question6.h
+CMakeFiles/Graphics.dir/main.cpp.o: ../question7.h
 

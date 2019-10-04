@@ -51,6 +51,14 @@ question3.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/question3.h
 question4.h
 /run/media/blush/CLASS WORK/GRAPHICS.git/question4.h
+question5.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question5.h
+question5b.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question5b.h
+question6.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question6.h
+question7.h
+/run/media/blush/CLASS WORK/GRAPHICS.git/question7.h
 iostream
 -
 
@@ -75,6 +83,38 @@ stdlib.h
 -
 
 /run/media/blush/CLASS WORK/GRAPHICS.git/question4.h
+iostream
+-
+graphics.h
+-
+stdlib.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question5.h
+iostream
+-
+graphics.h
+-
+stdlib.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question5b.h
+iostream
+-
+graphics.h
+-
+stdlib.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question6.h
+iostream
+-
+graphics.h
+-
+stdlib.h
+-
+
+/run/media/blush/CLASS WORK/GRAPHICS.git/question7.h
 iostream
 -
 graphics.h
