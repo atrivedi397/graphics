@@ -11,26 +11,22 @@
 class question4 {
 public:
     void draw_rectangle(int xc, int yc, int left, int top, int right, int bottom) {
-        setcolor(BLUE);
+
         //setfillstyle(HATCH_FILL,RED);
+        setcolor(4);
         rectangle(left, top, right, bottom);
         line(left, top, right, bottom);
         line(left, bottom, right, top);
-        //floodfill(xc, yc, BLUE);
+        floodfill(xc+10,yc-6,BLUE);
+        setcolor(BLUE);
+        floodfill(xc,yc-6,4);
+        setcolor(YELLOW);
+        floodfill(xc-10,yc,4);
+        setcolor(GREEN);
+        floodfill(xc,yc+6,4);
 
         //rectangle(219,139,419,339);
 
-        setcolor(GREEN);
-        floodfill(319,230,WHITE);
-
-        setcolor(RED);
-        floodfill(319,250,WHITE);
-
-        setcolor(BLUE);
-        floodfill(330,239,WHITE);
-
-        setcolor(YELLOW);
-        floodfill(310,239,WHITE);
 
     }
 };

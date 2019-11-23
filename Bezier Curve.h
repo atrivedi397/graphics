@@ -7,7 +7,7 @@
  * a circle of radius 150 of blue color with the use of floodfill function
 * */
 
-class question2 {
+class bezierc {
 public:
     void draw_circle(int xc, int yc, int r){
         setcolor(BLUE);

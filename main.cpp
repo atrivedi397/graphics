@@ -12,6 +12,7 @@
 #include "question5b.h"
 #include "question6.h"
 #include "question7.h"
+#include "Bezier Curve.h"
 
 #include<iostream>
 
@@ -29,17 +30,19 @@ question5b obj5b;
 question6 obj6;
 question7 obj7;
 
-int main() {
-    int x1, y1,x2,y2;
-    //std::cout<<"ENTER A(X1, X2) , B(X2, Y2)";
-    //std::cin>>x1>>y1>>x2>>y2;
-    int gd,gm=VGAMAX; gd=DETECT;
-    initgraph(&gd,&gm,NULL);
+//BezierCurve bezier_obj;
 
-    int xc = getmaxx()/2;
-    int yc = getmaxy()/2;
-    line(0, yc, 2*xc, yc);
-    line(xc, 0, xc, 2*yc);
+int main() {
+    int x1, y1, x2, y2;
+
+    int gd, gm = VGAMAX;
+    gd = DETECT;
+    initgraph(&gd, &gm, NULL);
+
+    int xc = getmaxx() / 2;
+    int yc = getmaxy() / 2;
+    line(0, yc, 2 * xc, yc);
+    line(xc, 0, xc, 2 * yc);
 
     //circle_obj.Circle(xc, yc, 4);
     //line_object.bres_general(xc+x1, yc-y1, xc+x2, yc-y2);
@@ -49,12 +52,14 @@ int main() {
     //obj1.draw_line(xc+0, yc-0, xc+150, yc-150);
     //obj2.draw_circle(xc, yc, 150);
     //obj3.draw_loop_circle(xc, yc, 150);
-    //obj4.draw_rectangle(xc, yc, xc-200, yc-200, xc+200, yc+200);
+    obj4.draw_rectangle(xc, yc, xc-100, yc-100, xc+100, yc+100);
     //obj5.plot_cos_graph(xc, yc);
     //obj5b.plot_sin_graph(xc, yc);
     //obj6.cir_inside_square(xc, yc);
-    obj7.plot_graph(xc, yc);
+    //obj7.plot_graph(xc, yc);
 
-    delay(50000);
+    //bezier_obj.input();
+
+    delay(90000000);
     return 0;
 }

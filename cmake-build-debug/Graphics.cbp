@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/Bezier Curve.h">
+			<Option target="Graphics"/>
+		</Unit>
 		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h">
 			<Option target="Graphics"/>
 		</Unit>
