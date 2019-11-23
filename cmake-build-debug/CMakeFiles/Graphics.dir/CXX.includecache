@@ -6,91 +6,83 @@
 
 #IncludeRegexTransform: 
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/Bezier Curve.h
+/home/atrivedi/GRAPHICS/Bezier Curve.h
 graphics.h
 -
 iostream
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h
+/home/atrivedi/GRAPHICS/Bresenham_circle.h
 iostream
 -
 graphics.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_line_drawing.h
+/home/atrivedi/GRAPHICS/Bresenham_line_drawing.h
 iostream
 -
 graphics.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h
+/home/atrivedi/GRAPHICS/Generalized_bresenham_line.h
 iostream
 -
 graphics.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/differential_digital_analyzer.h
+/home/atrivedi/GRAPHICS/differential_digital_analyzer.h
 iostream
 -
 graphics.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/main.cpp
+/home/atrivedi/GRAPHICS/main.cpp
 stdlib.h
 -
 graphics.h
 -
 differential_digital_analyzer.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/differential_digital_analyzer.h
+/home/atrivedi/GRAPHICS/differential_digital_analyzer.h
 Bresenham_line_drawing.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_line_drawing.h
+/home/atrivedi/GRAPHICS/Bresenham_line_drawing.h
 Generalized_bresenham_line.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h
+/home/atrivedi/GRAPHICS/Generalized_bresenham_line.h
 Bresenham_circle.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h
+/home/atrivedi/GRAPHICS/Bresenham_circle.h
 question1.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question1.h
+/home/atrivedi/GRAPHICS/question1.h
 question2.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question2.h
+/home/atrivedi/GRAPHICS/question2.h
 question3.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question3.h
+/home/atrivedi/GRAPHICS/question3.h
 question4.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question4.h
+/home/atrivedi/GRAPHICS/question4.h
 question5.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question5.h
+/home/atrivedi/GRAPHICS/question5.h
 question5b.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question5b.h
+/home/atrivedi/GRAPHICS/question5b.h
 question6.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question6.h
+/home/atrivedi/GRAPHICS/question6.h
 question7.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/question7.h
+/home/atrivedi/GRAPHICS/question7.h
 Bezier Curve.h
-/run/media/blush/CLASS WORK/GRAPHICS.git/Bezier Curve.h
+/home/atrivedi/GRAPHICS/Bezier Curve.h
 iostream
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/question1.h
-iostream
--
-graphics.h
--
-
-/run/media/blush/CLASS WORK/GRAPHICS.git/question2.h
-graphics.h
--
-iostream
--
-
-/run/media/blush/CLASS WORK/GRAPHICS.git/question3.h
+/home/atrivedi/GRAPHICS/question1.h
 iostream
 -
 graphics.h
 -
-stdlib.h
+
+/home/atrivedi/GRAPHICS/question2.h
+graphics.h
+-
+iostream
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/question4.h
+/home/atrivedi/GRAPHICS/question3.h
 iostream
 -
 graphics.h
@@ -98,7 +90,7 @@ graphics.h
 stdlib.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/question5.h
+/home/atrivedi/GRAPHICS/question4.h
 iostream
 -
 graphics.h
@@ -106,7 +98,7 @@ graphics.h
 stdlib.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/question5b.h
+/home/atrivedi/GRAPHICS/question5.h
 iostream
 -
 graphics.h
@@ -114,7 +106,7 @@ graphics.h
 stdlib.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/question6.h
+/home/atrivedi/GRAPHICS/question5b.h
 iostream
 -
 graphics.h
@@ -122,7 +114,15 @@ graphics.h
 stdlib.h
 -
 
-/run/media/blush/CLASS WORK/GRAPHICS.git/question7.h
+/home/atrivedi/GRAPHICS/question6.h
+iostream
+-
+graphics.h
+-
+stdlib.h
+-
+
+/home/atrivedi/GRAPHICS/question7.h
 iostream
 -
 graphics.h

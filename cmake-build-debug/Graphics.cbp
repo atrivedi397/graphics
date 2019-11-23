@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug"/>
+				<Option working_dir="/home/atrivedi/GRAPHICS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug"/>
+				<Option working_dir="/home/atrivedi/GRAPHICS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Graphics">
-				<Option output="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug/Graphics" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug"/>
+				<Option output="/home/atrivedi/GRAPHICS/cmake-build-debug/Graphics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atrivedi/GRAPHICS/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -42,15 +42,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graphics"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graphics"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Graphics/fast">
-				<Option output="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug/Graphics" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug"/>
+				<Option output="/home/atrivedi/GRAPHICS/cmake-build-debug/Graphics" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/atrivedi/GRAPHICS/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -63,66 +63,66 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graphics/fast"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 Graphics/fast"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/run/media/blush/CLASS WORK/GRAPHICS.git/cmake-build-debug"/>
+				<Option working_dir="/home/atrivedi/GRAPHICS/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/gmake -j8 -f &quot;/run/media/blush/CLASS\ WORK/GRAPHICS.git/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/atrivedi/GRAPHICS/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/Bezier Curve.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/Bezier Curve.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_circle.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/Bresenham_circle.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/Bresenham_line_drawing.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/Bresenham_line_drawing.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/Generalized_bresenham_line.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/Generalized_bresenham_line.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/differential_digital_analyzer.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/differential_digital_analyzer.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/main.cpp">
+		<Unit filename="/home/atrivedi/GRAPHICS/main.cpp">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question1.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question1.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question2.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question2.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question3.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question3.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question4.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question4.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question5.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question5.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question5b.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question5b.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question6.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question6.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/question7.h">
+		<Unit filename="/home/atrivedi/GRAPHICS/question7.h">
 			<Option target="Graphics"/>
 		</Unit>
-		<Unit filename="/run/media/blush/CLASS WORK/GRAPHICS.git/CMakeLists.txt">
+		<Unit filename="/home/atrivedi/GRAPHICS/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
