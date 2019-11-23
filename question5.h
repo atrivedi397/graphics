@@ -26,7 +26,7 @@ public:
             y = getmaxy() / 2 - y;
 
             /* color a pixel at the given position */
-            putpixel(x, y, RED);
+            putpixel(x, y, BLUE);
             delay(70);
 
             /* increment angle */

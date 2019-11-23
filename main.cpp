@@ -30,7 +30,7 @@ question5b obj5b;
 question6 obj6;
 question7 obj7;
 
-//BezierCurve bezier_obj;
+BezierCurve bezier_obj;
 
 int main() {
     int x1, y1, x2, y2;
@@ -52,13 +52,13 @@ int main() {
     //obj1.draw_line(xc+0, yc-0, xc+150, yc-150);
     //obj2.draw_circle(xc, yc, 150);
     //obj3.draw_loop_circle(xc, yc, 150);
-    obj4.draw_rectangle(xc, yc, xc-200, yc-200, xc+200, yc+200);
+    //obj4.draw_rectangle(xc, yc, xc-200, yc-200, xc+200, yc+200);
     //obj5.plot_cos_graph(xc, yc);
     //obj5b.plot_sin_graph(xc, yc);
     //obj6.cir_inside_square(xc, yc);
     //obj7.plot_graph(xc, yc);
 
-    //bezier_obj.input();
+    bezier_obj.write_name();
 
     delay(90000000);
     return 0;
