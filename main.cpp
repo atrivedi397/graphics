@@ -60,6 +60,6 @@ int main() {
 
     bezier_obj.write_name();
 
-    delay(90000000);
+    delay(500000);
     return 0;
 }
