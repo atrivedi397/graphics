@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Graphics.dir/main.cpp.o  -o Graphics -lgraph -lSDL_image -lSDL2_image 
+/usr/bin/c++  -g   CMakeFiles/Graphics.dir/main.cpp.o CMakeFiles/Graphics.dir/abhiyan.cpp.o  -o Graphics -lgraph -lSDL_image -lSDL2_image 

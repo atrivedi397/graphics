@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/abhiyan.dir/abhiyan.cpp.o  -o abhiyan -lgraph -lSDL_image -lSDL2_image 

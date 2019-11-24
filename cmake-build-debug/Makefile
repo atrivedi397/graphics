@@ -123,6 +123,49 @@ Graphics/fast:
 	$(MAKE) -f CMakeFiles/Graphics.dir/build.make CMakeFiles/Graphics.dir/build
 .PHONY : Graphics/fast
 
+#=============================================================================
+# Target rules for targets named abhiyan
+
+# Build rule for target.
+abhiyan: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 abhiyan
+.PHONY : abhiyan
+
+# fast build rule for target.
+abhiyan/fast:
+	$(MAKE) -f CMakeFiles/abhiyan.dir/build.make CMakeFiles/abhiyan.dir/build
+.PHONY : abhiyan/fast
+
+abhiyan.o: abhiyan.cpp.o
+
+.PHONY : abhiyan.o
+
+# target to build an object file
+abhiyan.cpp.o:
+	$(MAKE) -f CMakeFiles/Graphics.dir/build.make CMakeFiles/Graphics.dir/abhiyan.cpp.o
+	$(MAKE) -f CMakeFiles/abhiyan.dir/build.make CMakeFiles/abhiyan.dir/abhiyan.cpp.o
+.PHONY : abhiyan.cpp.o
+
+abhiyan.i: abhiyan.cpp.i
+
+.PHONY : abhiyan.i
+
+# target to preprocess a source file
+abhiyan.cpp.i:
+	$(MAKE) -f CMakeFiles/Graphics.dir/build.make CMakeFiles/Graphics.dir/abhiyan.cpp.i
+	$(MAKE) -f CMakeFiles/abhiyan.dir/build.make CMakeFiles/abhiyan.dir/abhiyan.cpp.i
+.PHONY : abhiyan.cpp.i
+
+abhiyan.s: abhiyan.cpp.s
+
+.PHONY : abhiyan.s
+
+# target to generate assembly for a file
+abhiyan.cpp.s:
+	$(MAKE) -f CMakeFiles/Graphics.dir/build.make CMakeFiles/Graphics.dir/abhiyan.cpp.s
+	$(MAKE) -f CMakeFiles/abhiyan.dir/build.make CMakeFiles/abhiyan.dir/abhiyan.cpp.s
+.PHONY : abhiyan.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +202,10 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Graphics"
 	@echo "... edit_cache"
+	@echo "... abhiyan"
+	@echo "... abhiyan.o"
+	@echo "... abhiyan.i"
+	@echo "... abhiyan.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/atrivedi/GRAPHICS/abhiyan.cpp" "/home/atrivedi/GRAPHICS/cmake-build-debug/CMakeFiles/Graphics.dir/abhiyan.cpp.o"
-  "/home/atrivedi/GRAPHICS/main.cpp" "/home/atrivedi/GRAPHICS/cmake-build-debug/CMakeFiles/Graphics.dir/main.cpp.o"
+  "/home/atrivedi/GRAPHICS/abhiyan.cpp" "/home/atrivedi/GRAPHICS/cmake-build-debug/CMakeFiles/abhiyan.dir/abhiyan.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
